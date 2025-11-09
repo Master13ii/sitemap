@@ -1,1 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/4561310/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
+  <url>
+       <loc>https://sites.google.com/view/efhc</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://sites.google.com/view/efhc/главная</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sites.google.com/view/efhc/о-проекте-efhc</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sites.google.com/view/efhc/дорожная-карта</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sites.google.com/view/efhc/nft-и-энергия</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sites.google.com/view/efhc/контакты</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://sites.google.com/view/efhc/манифест-будущее-без-бедности</loc>
+       <lastmod>2025-11-09T15:47:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
